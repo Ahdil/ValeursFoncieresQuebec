@@ -13,3 +13,6 @@ Présentement le classeur Excel et le tableau PowerBI, n'est utilsable que dans 
 La source, qui sont les fichiers "tableaux_municipalite_XXXX.xlsx", doit être téléchargée à partir du site web mentionné ci-dessus. Ces fichiers sont déposés dans le répertoire dont le chemin est paramétrable sous "par_NomRepertoire" des transformées Power Query. Nous en avons mis quelques uns sous Data/TableauxMunicipalités 
 
 Un dictionnaire de données est aussi nécessaire en format Excel, vous le trouverez sous Data/Dictionnaire. Son chemin est aussi paramétrable sous "par_NomFichierDictionnaire" dans Power Query
+# -------------
+Vous êtes le bienvenue de forker ce projet pour l'améliorer.
+

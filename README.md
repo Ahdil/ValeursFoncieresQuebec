@@ -8,7 +8,7 @@ Les données sources ont été prises du site de statistique du gouvernement du 
 3. Présenter leurs variations composées en pourcentage entre une plage d'années consécutives pour les groupes ci-dessus
 
 # Utilisation
-Présentement le tableau PowerBI, n'est utilsable que dans un contexte local en mode desktop. 
+Présentement le tableau PowerBI n'est utilsable que dans un contexte local en mode desktop. 
 
 La source, qui sont les fichiers "tableaux_municipalite_XXXX.xlsx", doit être téléchargée à partir du site web mentionné ci-dessus. Ces fichiers sont déposés dans le répertoire dont le chemin est paramétrable sous "par_NomRepertoire" des transformées Power Query. Nous en avons mis quelques uns sous Data/TableauxMunicipalités 
 

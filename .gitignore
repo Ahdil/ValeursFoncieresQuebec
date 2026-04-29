@@ -427,3 +427,23 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# --- Power BI Specific ---
+# Ignore the heavy binary files that contain data
+*.pbix
+
+# Allow the template files (no data included)
+!*.pbit
+
+# Ignore local user-specific settings
+*.pbi.user.json
+
+# Ignore Power BI Data Source files (may contain local paths)
+*.pbid
+
+# --- Power BI Project (.pbip) Specific ---
+# If using the new folder-based format, ignore the actual data cache
+**/cache.abf
+**/ms-pbi.user.json
+**/*.Dataset/.Data
